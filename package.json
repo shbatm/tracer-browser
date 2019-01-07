@@ -1,5 +1,5 @@
 {
-  "name": "tracer-test",
+  "name": "tracer-browser",
   "version": "1.0.0",
   "description": "Test package",
   "main": "index.js",
