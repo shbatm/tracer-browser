@@ -9,7 +9,7 @@
   "author": "shbatm",
   "license": "MIT",
   "dependencies": {
-    "tracer": "^0.9.8"
+    "tracer": "github:shbatm/tracer"
   },
   "repository": {
     "type": "git",
